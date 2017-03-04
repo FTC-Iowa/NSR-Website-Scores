@@ -1,0 +1,16 @@
+{
+	"divisions": [
+		{"tag":"ortberg", "name":"Ortberg"},
+		{"tag":"kindig", "name":"Kindig"}
+	],
+	"sources":{
+		"ortberg-matches" : "cache/Matches_Iowa_Championship_Black.html",
+		"ortberg-results":"cache/MatchResults_Iowa_Championship_Black.html",
+		"ortberg-rankings":"cache/Rankings_Iowa_Championship_Black.html",
+		"ortberg-details":"cache/MatchResultsDetails_Iowa_Championship_Black.html",
+		"kindig-matches":"cache/Matches_Iowa_Championship_Black.html",
+		"kindig-results":"cache/MatchResults_Iowa_Championship_Black.html",
+		"kindig-rankings":"cache/Rankings_Iowa_Championship_Black.html",
+		"kindig-details":"cache/MatchResultsDetails_Iowa_Championship_Black.html"
+	}
+}
