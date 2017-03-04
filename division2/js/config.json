@@ -1,0 +1,10 @@
+{
+        "divisions":[
+	],
+        "sources":{
+                "matches" : "cache/Matches_Iowa_Championship_Black.html",
+                "results" : "cache/MatchResults_Iowa_Championship_Black.html",
+                "rankings": "cache/Rankings_Iowa_Championship_Black.html",
+                "details" : "cache/MatchResultsDetails_Iowa_Championship_Black.html"
+	}
+}
